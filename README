@@ -1,4 +1,4 @@
-# O QUE FOI PASSADO NA AULA PASSADA 
+# O QUE FOI PASSADO NA AULA 2
 
 PASSO 1: voce ira criar uma conta no github
 PASSO 2: baixe github desketop, onde voce ira clonar sua conta do github nele. Voce ira aperta no seu repositoria e logo em seguida aperta em
@@ -6,9 +6,12 @@ PASSO 2: baixe github desketop, onde voce ira clonar sua conta do github nele. V
 PASSO 3: Voce ira abrir o visual studio e ira aberta em File - Open Folder - colocar a pastar do seu aquivo - ponto agora ele ta vinculado
 ao desketop e o github 
 PASSO 4: Voce ira colocar os seguintes codigos no visual studio
-  . # UM PROJETO
-  . # NOME DO PROJETO 
+  . ## UM PROJETO
+  . ## NOME DO PROJETO 
 E ira aperto em - file - Salve All_- Ira no desketop aperta em - publish branch - ele vai mostra seu codigo la 
 PASSO 5: Voce ira abir o desketop ira la em baixo ao lado escrever no  - create README - pode escrever qualquer coisa e ira no - Description -
 escreve qualquer coisa tambem aperta em - commit - e pontinho pode abrir seu github
 
+# O QUE FOI  PASSADO NA AULA 4 
+
+Aprendemos sobre o branch, que eles isolam o seu trabalho de desenvolvimento de outros branches no seu repositorio para que voce possa experimentar com sengurança 
